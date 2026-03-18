@@ -120,4 +120,4 @@ Users can input review text and get instant sentiment prediction.
 
 ## 👨‍💻 Author
 
-Tejas R
+Niveditha E R
